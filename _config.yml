@@ -18,16 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FCP
+title: FCP High Tech Services
 email: fcphightechservicesllc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Step into the future of cybersecurity with TR Proficient Tech Services, where innovation and expertise converge to protect your digital assets. As leaders in the cybersecurity realm, we offer a suite of specialized services designed to fortify your organization against the ever-evolving threat landscape. Our elite pentesting methodologies simulate sophisticated cyber attacks to identify weaknesses, ensuring your defenses are battle-ready.
-
-  Delve deeper with our comprehensive vulnerability assessments, where our seasoned experts meticulously scrutinize your systems to unearth vulnerabilities and provide actionable insights for remediation. Our state-of-the-art Security Operations Center (SOC) stands as your vigilant sentinel, offering round-the-clock monitoring and rapid response capabilities to neutralize threats in real-time.
-
-  At the heart of our defense strategy is Continuous Vulnerability Management (CVM), a proactive approach that keeps your security posture resilient against new vulnerabilities with ongoing assessment and immediate response mechanisms.
-
-  Partnering with TR Proficient Tech Services means more than just enhancing your security measures; it's about embracing a culture of cybersecurity awareness and resilience. Let us tailor a fortress of protection around your digital landscape, ensuring your business thrives in a secure, uninterrupted environment."
+  Our company, a leader in the field of cybersecurity, offers a comprehensive spectrum of consulting services designed to protect organizations of any size against the constantly evolving digital threats. Focusing on prevention, detection, and response to incidents, our team of highly skilled experts utilizes the latest technologies and methodologies to ensure that our clients' digital assets remain safeguarded. From thorough security audits, deep penetration testing, to the development of robust security policies and cybersecurity awareness programs, we tailor our services to meet the specific needs of each client, ensuring comprehensive defense against cyberattacks. Our commitment to excellence and innovation in information protection positions us as the trusted partner for businesses seeking not only to respond to today's digital security challenges but also to anticipate future risks, thus ensuring their continuity and success in today's highly competitive digital landscape."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fcpht.link" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FCP244
