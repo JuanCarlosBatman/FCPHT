@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TR Proficient Tech Services
-email: tomasrossi264@gmail.com
+title: FCP
+email: fcphightechservicesllc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Step into the future of cybersecurity with TR Proficient Tech Services, where innovation and expertise converge to protect your digital assets. As leaders in the cybersecurity realm, we offer a suite of specialized services designed to fortify your organization against the ever-evolving threat landscape. Our elite pentesting methodologies simulate sophisticated cyber attacks to identify weaknesses, ensuring your defenses are battle-ready.
 
@@ -29,9 +29,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 
   Partnering with TR Proficient Tech Services means more than just enhancing your security measures; it's about embracing a culture of cybersecurity awareness and resilience. Let us tailor a fortress of protection around your digital landscape, ensuring your business thrives in a secure, uninterrupted environment."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://trproficienttechservices.link" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tomasr264
-github_username:  TomasR264
+url: "http://fcpht.link" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: FCP244
+github_username:  FCP244
 
 # Build settings
 theme: minima
